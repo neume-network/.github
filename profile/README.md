@@ -1,5 +1,7 @@
 # Welcome to neume network 👋
 
+"What's this whole neume thing about?" - [gm](https://neume.network/posts/hello-world/)
+
 ## Quick Start
 
 - [Installation Guide](https://github.com/neume-network/core#installation)
