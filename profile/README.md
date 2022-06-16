@@ -13,6 +13,7 @@
 ## Documentation
 
 - [Handbook](https://github.com/neume-network/documents/blob/main/neumehandbook.md)
+- [Roles & Responsibilities](https://github.com/neume-network/documents/blob/main/roles%26responsibilities.md)
 - [Technical architecture](https://github.com/neume-network/documents/blob/main/architecture.md#neume-network-architecture)
 - [Social architecture](https://github.com/neume-network/documents/blob/main/social-architecture.md#social-architecture-of-the-neume-network)
 
