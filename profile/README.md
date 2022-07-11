@@ -26,3 +26,4 @@
 ## Communcation
 
 - [Chat (Discord)](https://discord.gg/uP4nTrQKPT)
+- [Open Office Hours calendar](https://calendar.google.com/calendar/u/3?cid=Y190bmcxYjUwZm5naGlvN2NsYnFiMjY5Y3ZpOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
