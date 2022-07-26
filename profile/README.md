@@ -1,3 +1,5 @@
+![alt text](https://github.com/neume-network/documents/blob/main/brand/Graphics/neume-graphic-1.png)
+
 # Welcome to neume network 👋
 
 "What's this whole neume thing about?" - [gm](https://neume.network/posts/hello-world/)
