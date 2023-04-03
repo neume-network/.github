@@ -2,7 +2,7 @@
 
 # Welcome to neume network 👋
 
-"What's this whole neume thing about?" - [gm](https://neume.network/posts/hello-world/)
+neume is an open source, credibly neutral, socially scalable, indexer for the future onchain music ecosystem. [gm](https://neume.network/posts/hello-world/).
 
 ## Quick Start
 
@@ -28,5 +28,6 @@
 ## Communication
 
 - [Community discussion](https://github.com/orgs/neume-network/discussions)
+- [Website & blog](https://neume.network/)
 - [Chat (HIFI Labs' Discord)](https://discord.gg/uP4nTrQKPT)
 - [Open Office Hours calendar](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NXA1aTQwMDNkYzgzZWw0aGNqNGRrdTRqdTBfMjAyMzAzMjNUMTUwMDAwWiA4MzhiNzE1NThiZjM4OTRlNWYzZTZhMTI1MzFiODIzMjZhZGFiN2E0NTZjZTQxYTU0ODBjMjY2YTk0OTUwOGVlQGc&tmsrc=838b71558bf3894e5f3e6a12531b82326adab7a456ce41a5480c266a949508ee%40group.calendar.google.com&scp=ALL)
